@@ -1,0 +1,6 @@
+__pycache__/
+downloadedSegments.csv
+downloadedSegments2.csv
+sim_results.mat
+sim_results2.mat
+displayResults.asv
